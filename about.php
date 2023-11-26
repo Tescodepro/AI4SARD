@@ -1,3 +1,6 @@
+<?php
+include 'config/database.php';
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -48,16 +51,22 @@
 
     <!-- about section one -->
     <div class="about-section-one inner-about rts-section-gap">
-        <div class="container">
+        <div class="container" style="margin-top: -10px;">
             <div class="row align-items-center">
                 <div class="col-lg-6">
+                    <div class="left-thumbnail-area">
+                        <img src="assets/images/about/1.png" alt="thumbanil">
+                    </div>
+                </div>
+                <div class="col-lg-1"></div>
+                <div class="col-lg-5">
                     <div class="about-p-right">
                         <div class="title-left-area">
                             <span class="pre-title-bg">About</span>
-                            <h2 class="title">
+                            <h3 class="title">
                                 Artificial Intelligence <br>for Sustainable Agriculture <br>and Rural Development (AI4SARD)
 
-                            </h2>
+                            </h3>
                         </div>
                         <div class="inner-content">
                             <p class="disc-l">
@@ -75,16 +84,60 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6">
-                    <div class="left-thumbnail-area">
-                        <img src="assets/images/about/01.png" alt="thumbanil">
-                    </div>
-                </div>
-
             </div>
         </div>
     </div>
     <!-- about section one end -->
+
+    <!-- rts team area start -->
+    <div class="rts-team-area rts-section-gapBottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="title-conter-area">
+                        <span class="pre-title-bg">Team</span>
+                        <h2 class="title">
+                            AI4SARD Dedicated Team
+                        </h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row g-5 mt--10">
+                <?php
+                $teams = mysqli_query($connect, "SELECT * FROM teams");
+                while ($team_row = mysqli_fetch_array($teams)) {
+                ?>
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                        <div class="team-area-ab-wrapper">
+                            <div class="thumbnail">
+                               <?php  if($team_row['image'] == null) {
+                                echo '<img src="assets/images/team/placeholder.png" alt="team">';
+                               }else{
+                                $image = $team_row['image'];
+                                echo '<img src="assets/images/team/'.$image.'" alt="team">';
+                               } ?>
+                            </div>
+                            <div class="inner-content">
+                                <a href="team_details.php?id=<?php echo $team_row['id']; ?>">
+                                    <h5 class="title"><?php echo $team_row['name']; ?></h5>
+                                </a>
+                                <span><?php echo $team_row['position']; ?></span>
+                                <div class="social-icon">
+                                    <a href="#"> <i class="fa-brands fa-facebook-f"></i></a>
+                                    <a href="#"><i class="fa-brands fa-twitter"></i></a>
+                                    <a href="#"><i class="fa-brands fa-behance"></i></a>
+                                    <a href="#"><i class="fa-brands fa-whatsapp"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <?php
+                }
+                ?>
+            </div>
+        </div>
+    </div>
+    <!-- rts team area ewnd -->
 
     <?php
     include 'layout/footer.php';

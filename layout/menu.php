@@ -15,19 +15,14 @@
                                         <a class="links-main" href="index.php">Home</a>
                                     </li>
 
-                                    <li class="has-dropdown">
-                                        <a class="links-main" href="">About Us</a>
-                                        <ul class="submenu">
-                                            <li><a href="">Aim</a></li>
-                                            <li><a href="">Our Team</a></li>
-                                            <li><a href="">Organogram</a></li>
-                                        </ul>
+                                    <li class="">
+                                        <a class="links-main" href="about.php">About Us</a>
                                     </li>
 
                                     <li class="has-dropdown">
-                                        <a class="links-main" href="">Events</a>
+                                        <a class="links-main" href="">Our Project</a>
                                         <ul class="submenu">
-                                            <li><a href="">Aim</a></li>
+                                            <li><a href="ai4wia">AI4WIA</a></li>
                                         </ul>
                                     </li>
 

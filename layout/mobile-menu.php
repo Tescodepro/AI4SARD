@@ -9,21 +9,16 @@
                     <a class="links-main" href="index.php">Home</a>
                 </li>
                 <li class="has-droupdown parent">
-                    <a href="#" class="main">About Us</a>
-                    <ul class="submenu mm-collapse">
-                        <li><a href="">Aim</a></li>
-                        <li><a href="">Objects</a></li>
-                        <li><a href="">Organogram</a></li>
-                    </ul>
+                    <a href="about.php" class="main">About Us</a>
                 </li>
                 <li class="has-droupdown parent">
-                    <a href="#" class="main">Events</a>
+                    <a class="main">Our Project</a>
                     <ul class="submenu mm-collapse">
-                        <li><a class="mobile-menu-link" href="">Product Details</a></li>
+                        <li><a class="mobile-menu-link" href="ai4wia">AI4WIA</a></li>
                     </ul>
                 </li>
                 <li class="parent">
-                    <a href="" class="main">Contact</a>
+                    <a href="contact.php" class="main">Contact</a>
                 </li>
             </ul>
         </nav>
