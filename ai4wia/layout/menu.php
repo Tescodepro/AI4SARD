@@ -34,6 +34,7 @@
                                         </ul>
                                     </li> -->
                                     <li><a class="links-main" href="contact.php">Contact</a></li>
+                                    <li><a class="links-main" href="training.php">Training</a></li>
                                 </ul>
                             </nav>
                         </div>
