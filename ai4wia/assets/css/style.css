@@ -14927,7 +14927,7 @@ body.sal-disabled [data-sal|=flip] {
   .banner-two-area .banner-right-img {
     position: relative;
     top: 70px;
-    left: 13%;
+    left: 1%;
     display: flex;
     align-items: center;
     justify-content: flex-start;
@@ -14935,7 +14935,7 @@ body.sal-disabled [data-sal|=flip] {
 }
 @media only screen and (max-width: 575px) {
   .banner-two-area .banner-right-img {
-    top: 10px;
+    top: 100px;
   }
 }
 @media only screen and (min-width: 1200px) and (max-width: 1599px) {

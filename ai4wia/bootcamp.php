@@ -35,7 +35,7 @@ include '../config/database.php';
       <div class="row g-5">
         <div class="col-lg-12 col-md-12">
           <h3 class="title">Bootcamp Lecture Series</h3>
-          <p>Empowering women in agriculture through artificial intelligence <br>Here, you'll find a comprehensive list of bootcamps organized by AI4WA, dedicated to equipping women in agriculture with the skills and knowledge to harness the power of AI. Our mission is to promote gender inclusivity and innovation in the agricultural sector, and we're excited to have you join us on this journey.</p>
+          <p>Empowering women in agriculture through artificial intelligence <br>Here, you'll find a comprehensive list of bootcamps organized by AI4WA, dedicated to equipping the bootcamp participants, comprising students in diverse disciplines, with skills and knowledge to harness power of AI proffer solutions to climate related problems faced by farmers, particularly, women.</p>
 
           <table class="table table-striped">
             <thead>
