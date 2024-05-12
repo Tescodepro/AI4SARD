@@ -62,32 +62,6 @@ include '../config/database.php';
           </table>
         </div>
         <br><br>
-
-        <div class="col-lg-12 col-md-12">
-          <h3 class="title">Bootcamp Lecture Series</h3>
-          <table class="table table-striped">
-            <thead>
-              <tr>
-                <th scope="col">S/NO</th>
-                <th scope="col">Series</th>
-                <th scope="col">Recorded Link</th>
-              </tr>
-            </thead>
-            <tbody>
-              <?php
-              $vedio_link = 'https://bit.ly/bootcamp_meeting_day';
-              for ($i = 1; $i <= 10; $i++) {
-                ?>
-                <tr>
-                  <th scope="row"> <?php echo $i; ?></th>
-                  <td> Series <?php echo $i; ?></td>
-                  <td><a href="<?php echo $vedio_link . $i; ?>" class="btn btn-success" target="_blank"
-                      rel="noopener noreferrer">Video link</a></td>
-                </tr>
-              <?php } ?>
-            </tbody>
-          </table>
-        </div>
         <div class="col-lg-3"></div>
       </div>
     </div>
