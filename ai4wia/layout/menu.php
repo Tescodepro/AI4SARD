@@ -35,6 +35,7 @@
                                     </li> -->
                                     <li><a class="links-main" href="contact.php">Contact</a></li>
                                     <li><a class="links-main" href="training.php">Training</a></li>
+                                    <li><a class="links-main" href="bootcamp.php">Bootcamp</a></li>
                                 </ul>
                             </nav>
                         </div>
