@@ -8,7 +8,7 @@ include 'config/database.php';
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="shortcut icon" type="image/x-icon" href="assets/images/fav.png">
+  <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo/logo.png">
   <title>AI4SARD - Contact Us</title>
   <!-- bootstrap min css -->
   <link rel="stylesheet preload" href="assets/css/plugins/fontawesome-6.css" as="style">

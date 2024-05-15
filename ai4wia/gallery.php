@@ -8,7 +8,7 @@ include '../config/database.php';
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="shortcut icon" type="image/x-icon" href="assets/images/fav.png">
+  <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo/logo.png">
   <title>AI4SARD - Gallery</title>
   <!-- bootstrap min css -->
   <link rel="stylesheet preload" href="assets/css/plugins/fontawesome-6.css" as="style">
@@ -116,35 +116,35 @@ include '../config/database.php';
 
             <div id="myBtnContainer" class="btn-box">
               <button class="btn active" onclick="filterSelection('all')"> Show all</button>
-              <button class="btn" onclick="filterSelection(' non_cash_revolving_loan')"> non-cash revolving loanure</button>
-              <button class="btn" onclick="filterSelection('cars')"> International conference</button>
+              <button class="btn" onclick="filterSelection(' non_cash_revolving_loan')"> Non-cash Revolving Loan</button>
+              <button class="btn" onclick="filterSelection('cars')"> International Conference</button>
             </div>
 
             <!-- Portfolio Gallery Grid -->
             <div class="row">
               <div class="column non_cash_revolving_loan">
                 <div class="content">
-                  <img src="assets/images/gallery/loan1.jpg" alt="loan1" style="width:100%; height:200px;">
-                  <h4>non-cash revolving loanure</h4>
+                  <img  src="assets/images/gallery/loan1.jpg" alt="loan1" style="width:100%; border-radius:10px; border: 3px solid #3EB75E; height:200px;">
+                  <h6 style="text-align:center; padding:10px;">Non-cash Revolving Loan</h6>
                 </div>
               </div>
               <div class="column non_cash_revolving_loan">
                 <div class="content">
-                  <img src="assets/images/gallery/loan2.jpg" alt="loan1" style="width:100%; height:200px;">
-                  <h4>non-cash revolving loanure</h4>
+                  <img  src="assets/images/gallery/loan2.jpg" alt="loan1" style="width:100%; border-radius:10px; border: 3px solid #3EB75E; height:200px;">
+                  <h6 style="text-align:center; padding:10px;">Non-cash Revolving Loan</h6>
                 </div>
               </div>
 
               <div class="column cars">
                 <div class="content">
-                  <img src="assets/images/gallery/car1.jpg" alt="Car" style="width:100%; height:200px;">
-                  <h4>International conference</h4>
+                  <img  src="assets/images/gallery/car1.jpg" alt="Car" style="width:100%; border-radius:10px; border: 3px solid #3EB75E; height:200px;">
+                  <h6 style="text-align:center; padding:10px;">International Conference</h6>
                 </div>
               </div>
               <div class="column cars">
                 <div class="content">
-                  <img src="assets/images/gallery/car2.jpg" alt="Car" style="width:100%; height:200px;">
-                  <h4>International conference</h4>
+                  <img  src="assets/images/gallery/car2.jpg" alt="Car" style="width:100%; border-radius:10px; border: 3px solid #3EB75E; height:200px;">
+                  <h6 style="text-align:center; padding:10px;">International Conference</h6>
                 </div>
               </div>
               

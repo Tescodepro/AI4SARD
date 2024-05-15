@@ -35,7 +35,15 @@
                                     </li> -->
                                     <li><a class="links-main" href="contact.php">Contact</a></li>
                                     <li><a class="links-main" href="training.php">Training</a></li>
-                                    <li><a class="links-main" href="bootcamp.php">Bootcamp</a></li>
+                                    <li class="has-dropdown">
+                                        <a class="links-main">Bootcamp</a>
+                                        <ul class="submenu">
+                                            <li><a href="bootcamp-report.php">Bootcamp Report</a></li>
+                                            <li><a href="bootcamp.php">Bootcamp Material</a></li>
+                                            <!-- <li><a href="checkout.html">Checkout</a></li>
+                                            <li><a href="log-in.html">My Account</a></li> -->
+                                        </ul>
+                                    </li>
                                 </ul>
                             </nav>
                         </div>
