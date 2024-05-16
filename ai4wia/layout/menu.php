@@ -40,6 +40,16 @@
                                         <ul class="submenu">
                                             <li><a href="bootcamp-report.php">Bootcamp Report</a></li>
                                             <li><a href="bootcamp.php">Bootcamp Material</a></li>
+                                   
+                                            <!-- <li><a href="checkout.html">Checkout</a></li>
+                                            <li><a href="log-in.html">My Account</a></li> -->
+                                        </ul>
+                                        <li class="has-dropdown">
+                                        <a class="links-main">Reports</a>
+                                        <ul class="submenu">
+                                            <li><a href="international-conference_report.php">International conference Report</a></li>
+                                            <li><a href="non-cash-revolving-loan_report.php">Non-cash revolving loan Report</a></li>
+                                   
                                             <!-- <li><a href="checkout.html">Checkout</a></li>
                                             <li><a href="log-in.html">My Account</a></li> -->
                                         </ul>

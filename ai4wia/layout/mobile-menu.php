@@ -23,6 +23,9 @@
                     <a class="links-main" href="bootcamp.php">Bootcamp</a>
                 </li>
                 <li class="parent">
+                    <a class="links-main" href="in.php">international conference </a>
+                </li>
+                <li class="parent">
                     <a href="gallery.php" class="main">Gallery</a>
                 </li>
             </ul>

@@ -1,4 +1,4 @@
-<?php
+<a?php
 include '../config/database.php';
 ?>
 <!DOCTYPE html>
@@ -124,26 +124,27 @@ include '../config/database.php';
             <div class="row">
               <div class="column non_cash_revolving_loan">
                 <div class="content">
-                  <img  src="assets/images/gallery/loan1.jpg" alt="loan1" style="width:100%; border-radius:10px; border: 3px solid #3EB75E; height:200px;">
+                
+                  <a href="non-cash-revolving-loan_report.php"> <img  src="assets/images/gallery/loan1.jpg" alt="loan1" style="width:100%; border-radius:10px; border: 3px solid #3EB75E; height:200px;"> </a>
                   <h6 style="text-align:center; padding:10px;">Non-cash Revolving Loan</h6>
                 </div>
               </div>
               <div class="column non_cash_revolving_loan">
                 <div class="content">
-                  <img  src="assets/images/gallery/loan2.jpg" alt="loan1" style="width:100%; border-radius:10px; border: 3px solid #3EB75E; height:200px;">
-                  <h6 style="text-align:center; padding:10px;">Non-cash Revolving Loan</h6>
+                 <a href="non-cash-revolving-loan_report.php"><img  src="assets/images/gallery/loan2.jpg" alt="loan1" style="width:100%; border-radius:10px; border: 3px solid #3EB75E; height:200px;"></a>
+                 <h6 style="text-align:center; padding:10px;">Non-cash Revolving Loan</h6>
                 </div>
               </div>
 
               <div class="column cars">
                 <div class="content">
-                  <img  src="assets/images/gallery/car1.jpg" alt="Car" style="width:100%; border-radius:10px; border: 3px solid #3EB75E; height:200px;">
+                <a href="international-conference_report.php">  <img  src="assets/images/gallery/car1.jpg" alt="Car" style="width:100%; border-radius:10px; border: 3px solid #3EB75E; height:200px;"></a>
                   <h6 style="text-align:center; padding:10px;">International Conference</h6>
                 </div>
               </div>
               <div class="column cars">
-                <div class="content">
-                  <img  src="assets/images/gallery/car2.jpg" alt="Car" style="width:100%; border-radius:10px; border: 3px solid #3EB75E; height:200px;">
+                <di class="content">
+                 <a href="international-conference_report.php"><img  src="assets/images/gallery/car2.jpg" alt="Car" style="width:100%; border-radius:10px; border: 3px solid #3EB75E; height:200px;"></a>
                   <h6 style="text-align:center; padding:10px;">International Conference</h6>
                 </div>
               </div>
