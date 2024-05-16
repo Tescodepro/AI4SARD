@@ -35,8 +35,8 @@ include '../config/database.php';
       <div class="row g-5">
         <div class="col-lg-12 col-md-12">
           <h3 class="title">International conference Report</h3>
-          <h4>Summary of Report</h4>
-        
+          <h4>Summary of Report &#40English Version&#41</h4>
+
           <p> The Artificial Intelligence for Sustainable Agriculture and Rural Development (AI4SARD) research team
             funded by the of Gender and Responsible Artificial Intelligence Network (GRAIN) organised the 1st
             international hybrid conference on Artificial Intelligence for Women in Agriculture (AI4WIA) at the Kwara
@@ -47,7 +47,7 @@ include '../config/database.php';
             researchers across the globe on the theme. With over one hundred attendees, the conference availed the
             presentations of a key-note paper, 5 lead papers and 7 technical papers. </b>
           </p>
-         
+
           <p style="text-align:center;">AI4WIA international conference Planned Activities</p>
           <p>The conference was declared open by the Acting Vice-Chancellor, Kwara State University, Malete, Prof.
             Shaykh Lukman Jimoh. He termed this conference as timely and imperative due to the significant role played
@@ -90,8 +90,8 @@ include '../config/database.php';
             face of climate change, It is therefore imperative to continue developing and adopting these technologies
             using socio-technical methodology that could produce responsible AI-Enhanced Climate Smart technologies that
             are accessible and beneficial to all farmers especially small holders and marginalized women farmers in
-            Africa.</p> 
-           <p>The first lead presenter, <b>Dr. Abdulwaheed Musa</b>, the Director, Center for Artificial
+            Africa.</p>
+          <p>The first lead presenter, <b>Dr. Abdulwaheed Musa</b>, the Director, Center for Artificial
             Intelligence and
             Machine Learning System (CAMS), Kwara State University, Malete unlock the application of Artificial
             Intelligence Innovation in Predictive Agriculture by stating predictive agriculture as data analytics and
@@ -177,216 +177,593 @@ include '../config/database.php';
               total of 7 papers were presented and arising from the deliberations at the technical session of the
               conference, the following observations were made:</h4>
           </center>
+          <div class="container">
+            <div class="row g-5">
+              <div class="col-lg-12 col-md-12">
+                <ul>
+                  <li>
+                    Oluwaseun Tosin Bamigboye, who presented on "Awareness of AI tools among women working in
+                    agriculture in Ekiti State, Nigeria: evidence-based in weather forecasting," was advised to verify
+                    analysis and use appropriate statistical tool for nominal variables such as education level and
+                    association membership.
+                  </li>
+                  <li>
+                    Folashade Akinsola, who presented "Comparative Evaluation of AI models and regression model for
+                    nitrogen mineralization prediction in leaf litter," was advised to be precise on AI and regression
+                    models comparison as AI also uses regression equation models. Best prediction models should also be
+                    indicated.
+                  </li>
+                  <li>
+                    Priscillia Adewumi, who presented on "Climate variability adaptation strategies among cowpea
+                    producers in Kwara State," was advised to redistribute Climate Smart Agriculture (CSA) practices
+                    listed into 3 groups such as greenhouse gas emissions reduction, adaptation, and improved production
+                    practices.
+                  </li>
+                  <li>
+                    Felicia Olooto, who presented "Knowledge of climate change among students of higher education
+                    institutions: a case study of Kwara State University, Malete, Nigeria," was advised to use
+                    appropriate statistical tool for variables such as age. Also advised to verify which
+                    department/faculty is responsible for the difference in climate change knowledge among students.
+                  </li>
+                  <li>
+                    Taiye Olalekan, who presented "Use of Climate Smart Agriculture practices among small ruminant
+                    keepers in Kwara State," was corrected on redistributing Climate Smart Agriculture (CSA) practices
+                    listed into 3 groups such as greenhouse gas emissions reduction, adaptation, and improved production
+                    practices.
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-3"></div>
+            </div>
+          </div>
 
 
-          <div class="row">
-            <div class="col-md-12">
-              <h4>Observations from Technical Session</h4>
-              <table class="table table-bordered">
-                <thead>
-                  <tr>
-                    <th>Presenter</th>
-                    <th>Presentation Title</th>
-                    <th>Observations</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td>Oluwaseun Tosin Bamigboye</td>
-                    <td>Awareness of Artificial Intelligence tools among women in Agriculture in Ekiti State, Nigeria:
-                      Evidence-based in weather forecasting</td>
-                    <td>
-                      <p>1. Check analysis and use appropriate statistical tool for nominal variables.</p>
-                      <p>2. Indicate prominent radio stations broadcasting weather/climate related news.</p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>Folashade Akinsola</td>
-                    <td>Comparative evaluation of AI models and regression model for prediction of Nitrogen
-                      Mineralization in leaf litter</td>
-                    <td>
-                      <p>1. Be specific about AI and regression models under comparison.</p>
-                      <p>2. Indicate the models that give the best prediction.</p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>Priscillia</td>
-                    <td>Coping strategies on climate variability among cowpea-based Farmers in Kwara State</td>
-                    <td>
-                      <p>1. Redistribute Climate Smart Agricultural Practices (CSA) into 3 groups.</p>
-                      <p>2. Be specific about cowpea-based farmers.</p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>Felicia Olooto</td>
-                    <td>Knowledge of climate change among tertiary institution students: Case study of Kwara State
-                      University, Malete, Nigeria</td>
-                    <td>
-                      <p>1. Use appropriate statistical tool for variables such as age.</p>
-                      <p>2. Check for department/faculty responsible for differences in knowledge.</p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>Taiye Olalekan</td>
-                    <td>Use of climate smart practices among small ruminant farmers in Kwara State</td>
-                    <td>
-                      <p>1. Redistribute Climate Smart Agricultural Practices (CSA) into 3 groups.</p>
-                    </td>
-                  </tr>
-                </tbody>
-              </table>
+
+          <div class="container">
+            <div class="row">
+              <div class="col-md-12">
+                <h4>1st INTERNATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE FOR WOMEN IN AGRICULTURE</h4>
+                <p><strong>Held from 23rd to 26th October 2023 at the Kwara State University (KWASU), Malete, Kwara
+                    State,
+                    Nigeria</strong></p>
+                <h4>COMMUNICATED</h4>
+                <p><strong>Preamble:</strong> The Artificial Intelligence for Sustainable Agriculture and Rural
+                  Development (AI4SARD) research team funded by the Gender and Responsible Artificial Intelligence
+                  Network
+                  (GRAIN) organized the 1st international hybrid conference on Artificial Intelligence for Women in
+                  Agriculture (AI4WIA) at the Kwara State University, Malete, Kwara State between 23rd to 26th October,
+                  2023. The theme of the conference was “AI-Enhanced Climate-Smart Farming: Towards Empowering African
+                  Women Farmers”. The purpose of the conference was to develop co-created recommendations from the space
+                  of academia, non-governmental Organization, and researchers across the globe on the theme. With over
+                  one
+                  hundred attendees, the conference featured keynote paper presentations, 5 lead papers, and 7 technical
+                  papers.</p>
+                <h3 class="title">The following are co-created submissions and recommendations emanating from the
+                  deliberations of the 3-day conference:</h3>
+                <ol>
+                  <li>Women farmers play important and multifaceted roles in agriculture, including crop and livestock
+                    production, community development, water management, income generation, reproduction, nutrition and
+                    household well-being. These elements need to be further recognized for necessary interventions;</li>
+                  <li>Women farmers have a strong tendency to adapt and adopt climate-resilient production and,
+                    therefore, they should be targeted as agents of climate action and AI application;</li>
+                  <li>Several challenges that women farmers face when engaging in agricultural activities in Africa,
+                    such as limited access to land and resources, inadequate training and extension services,
+                    gender-based violence, vulnerability climate change, illiteracy and lack of information, inadequate
+                    representation should be taken into account in guiding policy relief measures;</li>
+                  <li>The importance of inclusive design, local language and literacy, training and capacity building,
+                    community engagement, financial inclusion, etc. as gender-responsive strategies for integrating
+                    AI-enhanced climate-smart agriculture into African agriculture cannot be overemphasized;</li>
+                  <li>AI-enabled climate-smart agriculture in Africa may include AI-enhanced weather forecasting, crop
+                    monitoring and disease detection, precision agriculture, digital consultancy services, monitoring
+                    systems, etc. smart irrigation, livestock management, climate resilient varieties, drones for
+                    agriculture, remote sensing for climate data;</li>
+                  <li>It is imperative to continue to develop and adopt these technologies using socio-technical
+                    methodology that could produce climate-smart, AI-enhanced solutions that are accessible and
+                    beneficial to all farmers, especially smallholder and marginalized women farmers . in Africa ;</li>
+                  <li>Empowering African farmers through AI-based educational initiatives/programs would provide
+                    guidance and knowledge on sustainable agricultural practices;</li>
+                  <li>Accessibility to resources through AI can facilitate efficient allocation of resources, ensuring
+                    that farmers have access to essential resources and mitigating the impacts of climate change on
+                    their agricultural activities;</li>
+                  <li>Knowledge and capacity building should be demand and needs driven and carried out at frequent
+                    intervals, using a structured approach for sustainable access to information and resources needed
+                    for women;</li>
+                  <li>Women's participation in climate interventions must go beyond consultation to enable their
+                    objective involvement as well as the operationalization and implementation of existing policies;
+                  </li>
+                  <li>Listening to women, increasing initiatives that support women's growth, reducing women's workload,
+                    removing barriers that hold rural women back, such as access, equity and disability, are ways to
+                    change the climate change paradigm shift;</li>
+                  <li>Efforts to collectively strengthen the resilience of women farmers to climate change and their
+                    decision-making capacities should be advocated;</li>
+                  <li>A policy design that will strengthen women's listening skills should be implemented, as well as
+                    agricultural extension services and training programs to better serve farmers;</li>
+                  <li>There is a strong preference for web applications over the SMS option based on the usage,
+                    convenience and cost of AI-based weather forecast applications;</li>
+                  <li>Agriculture, especially in weed management, has shown its potential to revolutionize traditional
+                    farming practices, and as we look to the future of agriculture in Nigeria, this blend of technology,
+                    sustainability and inclusiveness . paves the way for a bright future for Nigerian agriculture.</li>
+                </ol>
+
+              </div>
+              <div class="col-lg-3"></div>
             </div>
           </div>
         </div>
 
-        
+        <hr style="border-top: 5px solid black;">
+
+
+        <h3 class="title">Rapport de la conférence internationale</h3>
+        <h4>Résumé du rapport et&#40Version française&#41</h4>
+
+        <p> L’équipe de recherche Intelligence Artificielle pour une Agriculture et un Développement Rural Durables
+          (AI4SARD)
+          financé par le Réseau Genre et Intelligence Artificielle Responsable (GRAIN) a organisé la 1ère
+          conférence hybride internationale sur l'intelligence artificielle pour les femmes dans l'agriculture
+          (AI4WIA)
+          à Kwara
+          State University, Malete, Kwara State, du 23 au 26 octobre 2023. Le thème de la conférence était
+          <b>Une agriculture intelligente face au climat améliorée par l'IA : vers l'autonomisation des agricultrices
+            africaines »</b>. Le but du
+          conférence
+          était d'élaborer des recommandations co-créées par le monde universitaire, les organisations non
+          gouvernementales et
+          chercheurs du monde entier sur le thème. Avec plus d'une centaine de participants, la conférence a bénéficié
+          du
+          présentations d'un article principal, de 5 articles principaux et de 7 articles techniques. </b>
+        </p>
+
+        <p style="text-align:center;">Conférence internationale AI4WIA Activités prévues</p>
+        <p>La conférence a été déclarée ouverte par le vice-chancelier par intérim de l'Université d'État de Kwara,
+          Malete, Prof.
+          Cheikh Lukman Jimoh. Il a qualifié cette conférence d'opportune et d'impérative en raison du rôle important
+          joué
+          par l’agriculture dans les économies mondiales. Il a ajouté que la nécessité de révolutionner l'agriculture
+          pour des raisons économiques
+          La durabilité de toute nation est primordiale, surtout en cette période critique actuelle où le monde est en
+          difficulté.
+          confrontés à des défis sans précédent en matière de sécurité alimentaire et d’agriculture. Il a en outre
+          souligné que cette conférence
+          organise un changement transformateur en réunissant des experts, des universitaires et des parties prenantes
+          de divers
+          disciplines, en tirant parti de la puissance de l’intelligence artificielle et de l’agriculture intelligente
+          face au climat pour conduire le
+          progrès dans notre secteur agricole. Le <b>chercheur principal du projet, professeur agrégé,
+            Olayinka Jelili Yusuf</b>, a exprimé sa joie en souhaitant la bienvenue à tout le monde tout en notant que
+          les gens se rassemblent
+          hybride
+          mode, se connectant virtuellement et physiquement pour explorer et collaborer. Il reflète les valeurs
+          fondamentales du
+          projet de l’équipe et moteur de la mission collective. Il a également mentionné que l'équipe est
+          exploiter la puissance des technologies d’IA de pointe pour relever les défis uniques auxquels sont
+          confrontées les femmes dans
+          l’agriculture sur tout le continent africain.</p>
+        <p>Le présentateur principal, <b>Prof. Olanike Deji</b> du Département de vulgarisation agricole et rurale
+          Development, Obafemi Awolowo University, Osun State, Nigeria, a prononcé un discours complet sur «
+          AI-Enhanced
+          Climate
+          Agriculture intelligente : vers l’autonomisation des agricultrices africaines » en déclarant que les
+          agricultrices jouent un rôle important et
+          rôles multiformes dans l'agriculture couvrant la production alimentaire, l'élevage, le développement
+          communautaire, l'eau
+          gestion, génération de revenus, nutrition et bien-être des ménages, etc. Elle a également souligné la raison
+          pour laquelle
+          ce sujet était destiné aux agricultrices étant donné qu'elles ont tendance à s'adapter et à adopter
+          plusieurs
+          changements climatiques
+          résilience. Cependant, elle a souligné plusieurs défis auxquels les agricultrices sont confrontées
+          lorsqu'elles s'engagent dans
+          activités agricoles en Afrique telles qu'un accès limité à la terre et aux ressources, une formation et une
+          vulgarisation inadéquates
+          services, violence basée sur le genre, vulnérabilité au changement climatique, analphabétisme et manque
+          d'informations
+          représentation, etc. Tout cela empêche les femmes de contribuer pleinement à l’agriculture. Elle a en outre
+          présenté
+          certains efforts mis en place pour relever ces défis tels que des politiques agricoles sensibles au genre,
+          l'accès à
+          crédit, éducation et alphabétisation, services de vulgarisation agricole, autonomisation et renforcement des
+          capacités,
+          sensibilisation et plaidoyer, développement des infrastructures rurales, agriculture intelligente face au
+          climat, entre autres. Elle
+          a exprimé la nature du système agricole pratiqué en Afrique comme étant pluvial, cela a cependant affecté
+          les agricultrices en raison des conditions météorologiques irrégulières dues au changement climatique.
+          Ainsi,
+          il en résulte pour les femmes
+          pénurie d’eau pour les agriculteurs, diminution des rendements des cultures, insécurité alimentaire,
+          augmentation de la charge de travail, santé du bétail et
+          déplacement et migration. Ce changement climatique a eu de graves impacts tout au long de la chaîne de
+          valeur
+          agricole,
+          on ne saurait donc trop insister sur la nécessité d’une agriculture intelligente face au climat. Elle a
+          également souligné l'importance de
+          conception inclusive du genre, langue locale et alphabétisation, formation et renforcement des capacités,
+          engagement communautaire,
+          l'inclusion financière, etc. en tant que stratégies sensibles au genre dans l'intégration d'une agriculture
+          intelligente face au climat améliorée par l'IA
+          dans l’agriculture africaine. Cette agriculture intelligente face au climat améliorée par l’IA en Afrique
+          peut
+          avoir des répercussions
+          prévisions météorologiques, surveillance des cultures et détection des maladies, agriculture de précision,
+          conseil numérique
+          Services, systèmes d'irrigation intelligents, gestion du bétail, variétés résilientes au climat, drones pour
+          l'agriculture,
+          télédétection pour les données climatiques, etc. Afin de garantir la productivité, la durabilité et la
+          résilience dans le
+          Face au changement climatique, il est donc impératif de continuer à développer et à adopter ces technologies
+          en utilisant une méthodologie sociotechnique qui pourrait produire des technologies responsables et
+          intelligentes face au climat, améliorées par l'IA, qui
+          sont accessibles et bénéfiques à tous les agriculteurs, en particulier aux petits exploitants et aux
+          agricultrices marginalisées du pays.
+          Afrique.</p>
+        <p>Le premier présentateur principal, <b>Dr. Abdulwaheed Musa</b>, directeur du Center for Artificial
+          Renseignement et
+          Machine Learning System (CAMS), Kwara State University et Malete débloquent l’application de l’artificiel
+          Innovation en matière d'intelligence dans l'agriculture prédictive en décrivant l'agriculture prédictive
+          comme
+          une analyse de données et
+          technologie qui anticipe les résultats des cultures et améliore les stratégies agricoles, améliorant ainsi
+          la
+          productivité et
+          durabilité. En outre, l'importance de l'IA dans l'agriculture, car elle permet d'exploiter une technologie
+          de
+          pointe pour
+          automatiser et améliorer les opérations agricoles, ce qui entraîne une productivité accrue, une réduction du
+          gaspillage des ressources et
+          améliorer la prise de décision pour une production alimentaire durable, <b>Dr. » Abdulwaheed </b>a dit. Il a
+          en outre exprimé
+          que,
+          au fil des années, des technologies telles que les machines et la robotique ont évolué qui seront
+          contrôlé par des systèmes d'automatisation équipés d'algorithmes d'apprentissage automatique invariablement,
+          conduisant à un minimum
+          apports des opérateurs humains dans les années à venir. Dans le même ordre d’idées, il y a eu une série
+          d’évolutions dans
+          Le secteur agricole, de l’Antiquité à la quatrième révolution industrielle et aux innovations en matière
+          d’IA.
+          L'IA
+          les outils sont capables d'aborder l'analyse prédictive, la prévision des rendements des cultures,
+          l'application de drones, la détection
+          ravageurs et maladies, surveillance de la santé du bétail, surveillance améliorée de la santé des sols,
+          agriculture de précision et
+          désherbage automatique. Il a en outre noté que l'agriculture prédictive est cruciale et capable de répondre
+          aux
+          le changement climatique et ses impacts, la sécurité alimentaire et l'agriculture durable ainsi que la
+          nourriture pour la précision
+          agriculture. <b>Dr. Abdulwaheed</b> a noté certains avantages de l'IA comme une augmentation de la
+          productivité des cultures, des ressources
+          efficacité,
+          réduction des impacts environnementaux et prise de décision basée sur les données. Il a cependant évoqué les
+          défis et l'avenir
+          perspectives telles que la confidentialité et la sécurité des données, l'accessibilité et l'adoption, la
+          politique et la réglementation et la recherche et
+          développement. Il a terminé sa présentation en mettant l'accent sur l'autonomisation des agricultrices
+          africaines grâce à l'IA.
+          initiatives/programmes éducatifs visant à fournir des conseils et des connaissances sur les pratiques
+          agricoles durables. Aussi,
+          L’accessibilité aux ressources grâce à l’IA qui peut faciliter une allocation efficace des ressources, en
+          garantissant aux femmes
+          les agriculteurs ont accès aux ressources essentielles et atténuent les impacts du changement climatique sur
+          leur agriculture.
+          efforts.</p>
+        <p>Dans la présentation faite par le deuxième présentateur, <b>Dr. Chinwoke Clara Ifeanyi-obi</b>, Département
+          de
+          Études de vulgarisation et de développement agricoles, Université de Portharcourt, État de Rivers, Nigéria,
+          Elle
+          défini le changement climatique comme des variations significatives de l’état moyen du climat durant une
+          période prolongée.
+          période prolongée comme une décennie ou plus, causée par toutes les activités qui contribuent à l'émission
+          de
+          gaz à effet de serre notamment dioxyde de carbone (CO2), méthane, protoxyde d'azote, etc. dans l'atmosphère,
+          principalement classées comme causes humaines et naturelles. Surtout, elle a souligné que l'agriculture
+          était
+          le secteur le plus important
+          activité économique importante en Afrique qui fournit des emplois à environ les deux tiers de la population
+          du
+          continent.
+          population active et pour certains pays d’Afrique, contribue en moyenne à 30 à 60 pour cent de la
+          valeur des exportations. Elle a en outre noté que l'agriculture était le secteur le plus touché par le
+          changement climatique et que le Nigeria était
+          reconnu comme vulnérable aux impacts du changement climatique, classé 160e sur 181 pays. D’où la nécessité
+          du
+          climat
+          Agriculture intelligente pour atteindre une productivité accrue, une résilience accrue et une réduction des
+          émissions afin de
+          maintenir les services écosystémiques. Elle a estimé que le changement climatique n'était pas neutre car il
+          impactait les hommes et les femmes.
+          différemment. Elle a en outre exprimé la sensibilité au genre comme moyen d'aborder les différentes
+          situations, rôles,
+          besoins et intérêts des femmes, des hommes, des filles, des garçons et des personnes vivant avec des besoins
+          spéciaux dans la conception et
+          mise en œuvre des activités, des politiques et des programmes. Cependant, les défis liés à l’adoption de
+          mesures intelligentes face au climat
+          L'agriculture parmi les agricultrices a été soulignée comme étant médiocre en termes de connaissances, de
+          capacités et de capacité à gagner des revenus,
+          accès à l’information et aux ressources, faible implication et participation au changement climatique,
+          faible
+          mise en œuvre
+          des engagements en matière de genre dans les politiques existantes. Par conséquent, le renforcement des
+          connaissances et des capacités doit être une demande et
+          axée sur les besoins et effectuée à intervalles fréquents, approche structurée pour un accès durable à
+          l'information et
+          ressources nécessaires parmi les femmes, la participation des femmes aux interventions climatiques doit
+          aller
+          au-delà de la consultation pour
+          Il est crucial d’obtenir l’implication, l’opérationnalisation et la mise en œuvre des politiques existantes.
+        </p>
+        <p>Les paradigmes changeants dans la lutte contre le choc climatique chez les agricultrices » abordés par le
+          troisième responsable
+          présentateur de l'article, <b>Dr. Sidiqat Aderinoye-Abdulwahab</b>, du Département de la vulgarisation
+          agricole et
+          Rural
+          Développement, Université d'Ilorin, a été décrit comme étant approprié en raison des ravages causés par le
+          changement climatique et
+          a ainsi révélé les moyens de changer les paradigmes en écoutant les femmes, en multipliant les initiatives
+          qui
+          soutiennent
+          la croissance des femmes, réduire la charge de travail des femmes, éliminer les obstacles qui freinent les
+          femmes rurales, tels que l'accès,
+          l’équité et le handicap. Ces objectifs peuvent être atteints grâce au commerce du carbone, à l'utilisation
+          d'énergies alternatives, à l'adoption de
+          une agriculture intelligente face au genre, etc., avec des efforts visant à renforcer collectivement la
+          résilience des agricultrices face aux
+          changement climatique et capacités de prise de décision, conception de politiques qui renforceront la
+          capacité
+          à écouter les femmes
+          devraient être mises en œuvre, l'amélioration des services de vulgarisation agricole et des programmes de
+          formation pour mieux servir
+          les agricultrices.</p>
+        <p>Les enseignements de l’application SOFADRICLIMATE au Nigeria en tant que systèmes d’IA pour la prévision du
+          changement climatique et
+          résilience, délivré par <b>Dr. Toyin Samuel Olowogbon</b>, du Centre pour une agriculture durable
+          Autonomisation,
+          Le Nigeria a révélé l'approche utilisée dans le développement de l'application, telle que des informations
+          climatiques basées sur des données non techniques,
+          des informations climatiques rentables pour l'aide à la décision annuelle, des contenus nouveaux et robustes
+          sur les meilleures pratiques agronomiques
+          pratiques en matière de microassurance maïs et indice climatique pour les agriculteurs, tandis que les
+          leçons
+          du processus ont également été
+          signalé comme une mauvaise culture numérique en tant que tiers à bord de certains utilisateurs, développant
+          une application Web pour les agriculteurs
+          peut ne pas être suffisant 94 % des utilisateurs souhaitaient un rappel mensuel des messages, une forte
+          préférence pour les applications Web
+          par rapport à l'option SMS en fonction de l'utilisation, de la commodité et du coût. Il a en outre suggéré
+          les
+          prochaines actions pour le
+          application comme l'intégration des rapports d'alerte aux inondations et un abonnement annuel symbolique aux
+          agriculteurs internationaux à bord.</p>
+        <p>Le dernier article présenté sur « Intelligence artificielle – gestion des mauvaises herbes pilotée et
+          agriculture durable »
+          <b>par
+            Ingénieur Jibril Abdullahi Bala</b> du Département de génie mécatronique, Université fédérale de
+          Technologie, Minna a montré les différentes IA dans la détection des mauvaises herbes sous forme
+          d'algorithmes
+          d'apprentissage en profondeur, d'apprentissage par transfert,
+          apprentissage par renforcement, modèles de détection d'objets, algorithmes d'optimisation et techniques de
+          segmentation d'images.
+          Il a en outre conclu que l'intégration de l'IA dans l'agriculture, en particulier dans la gestion des
+          mauvaises herbes, a montré
+          le potentiel de révolutionner les pratiques agricoles traditionnelles, et alors que nous envisageons
+          l’avenir
+          de l’agriculture
+          au Nigeria, ce mélange de technologie, de durabilité et d’inclusivité ouvre la voie à un avenir prometteur
+          dans l'agriculture nigériane.
+        </p>
+
+        <center>
+          <h4>Lors de la séance technique de la conférence présidée par le chercheur principal et d'autres membres de
+            l'équipe,
+            un
+            Au total, 7 documents ont été présentés et issus des délibérations de la session technique du
+            conférence, les observations suivantes ont été faites :</h4>
+        </center>
+        <div class="container">
+          <div class="row g-5">
+            <div class="col-lg-12 col-md-12">
+              <ul>
+                <li>
+                  Oluwaseun Tosin Bamigboye, qui a présenté sur « La sensibilisation aux outils d'IA chez les femmes
+                  travaillant dans
+                  l'agriculture dans l'État d'Ekiti, au Nigeria : des prévisions météorologiques fondées sur des
+                  données factuelles", a-t-il été conseillé de vérifier
+                  analyse et utiliser un outil statistique approprié pour les variables nominales telles que le niveau
+                  d’éducation et
+                  adhésion à une association.
+                </li>
+                <li>
+                  Folashade Akinsola, qui a présenté « Évaluation comparative des modèles d'IA et du modèle de
+                  régression pour
+                  prédiction de la minéralisation de l'azote dans la litière de feuilles", il a été conseillé d'être
+                  précis sur l'IA et la régression
+                  comparaison de modèles, car l'IA utilise également des modèles d'équations de régression. Les
+                  meilleurs modèles de prédiction devraient également être
+                  indiqué.
+                </li>
+                <li>
+                  Priscillia Adewumi, qui a présenté sur "Les stratégies d'adaptation à la variabilité climatique chez
+                  le niébé
+                  producteurs de l'État de Kwara », a été conseillé de redistribuer les pratiques d'agriculture
+                  intelligente face au climat (CSA)
+                  classés en 3 groupes tels que la réduction des émissions de gaz à effet de serre, l'adaptation et
+                  l'amélioration de la production
+                  les pratiques.
+                </li>
+                <li>
+                  Felicia Olooto, qui a présenté « Connaissance du changement climatique chez les étudiants de
+                  l'enseignement supérieur
+                  institutions : une étude de cas de l'Université d'État de Kwara, Malete, Nigeria », a été conseillé
+                  d'utiliser
+                  outil statistique approprié pour des variables telles que l’âge. Il est également conseillé de
+                  vérifier quel
+                  Le département/la faculté est responsable de la différence dans les connaissances des étudiants en
+                  matière de changement climatique.
+                </li>
+                <li>
+                  Taiye Olalekan, qui a présenté « Utilisation des pratiques d'agriculture intelligente face au climat
+                  chez les petits ruminants
+                  gardiens de l'État de Kwara », a été corrigé sur la redistribution des pratiques d'agriculture
+                  intelligente face au climat (CSA).
+                  classés en 3 groupes tels que la réduction des émissions de gaz à effet de serre, l'adaptation et
+                  l'amélioration de la production
+                  les pratiques.
+                </li>
+              </ul>
+            </div>
+            <div class="col-lg-3"></div>
+          </div>
+        </div>
 
         <div class="container">
-  <div class="row">
-    <div class="col-md-12">
-      <h4>1st INTERNATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE FOR WOMEN IN AGRICULTURE</h4>
-      <p><strong>Held from 23rd to 26th October 2023 at the Kwara State University (KWASU), Malete, Kwara State, Nigeria</strong></p>
-      <h4>COMMUNIQUÉ</h4>
-      <p><strong>Preamble:</strong> The Artificial Intelligence for Sustainable Agriculture and Rural Development (AI4SARD) research team funded by the Gender and Responsible Artificial Intelligence Network (GRAIN) organized the 1st international hybrid conference on Artificial Intelligence for Women in Agriculture (AI4WIA) at the Kwara State University, Malete, Kwara State between 23rd to 26th October, 2023. The theme of the conference was “AI-Enhanced Climate-Smart Farming: Towards Empowering African Women Farmers”. The purpose of the conference was to develop co-created recommendations from the space of academia, non-governmental Organization, and researchers across the globe on the theme. With over one hundred attendees, the conference featured keynote paper presentations, 5 lead papers, and 7 technical papers.</p>
-      <h4>Submissions and Recommendations:</h4>
-      <table class="table table-bordered">
-        <thead>
-          <tr>
-            <th>S/N</th>
-            <th>Submission</th>
-            <th>Recommendation</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>1.</td>
-            <td>Women farmers play significant and multifaceted roles in agriculture covering crop and livestock production, community development, water management, income generation, reproduction, nutrition, and household well-being, among others. These needs further recognition for necessary interventions.</td>
-            <td>Recognition and intervention in addressing the diverse roles of women farmers in agriculture.</td>
-          </tr>
-          <tr>
-            <td>2.</td>
-            <td>Women farmers have a high tendency to adapt and adopt climate-resilient production, and therefore, they should be focused as agents in climate action and AI application.</td>
-            <td>Emphasize women farmers' role as agents in climate action and encourage their participation in AI application.</td>
-          </tr>
-          <tr>
-            <td>3.</td>
-            <td>Several challenges women farmers encounter in the course of engaging in farming activities in Africa such as limited access to land and resources, inadequate training and extension services, gender-based violence, climate change vulnerability, illiteracy, and lack of information inadequate representation should be the focus of policy redress.</td>
-            <td>Policy redress to address challenges faced by women farmers, including access to resources, training, and protection from gender-based violence.</td>
-          </tr>
-          <tr>
-            <td>4.</td>
-            <td>The importance of gender-inclusive design, local language and literacy, training and capacity building, community engagement, financial inclusion, etc., as gender-responsive strategies in integrating AI-enhanced climate smart farming into African agriculture cannot be over-emphasized.</td>
-            <td>Implement gender-inclusive strategies for integrating AI-enhanced climate smart farming into African agriculture.</td>
-          </tr>
-          <tr>
-            <td>5.</td>
-            <td>The AI-enhanced climate smart farming in Africa can cut across AI-enhanced weather forecasting, crop monitoring and disease detection, precision agriculture, digital advisory services, smart irrigation systems, livestock management, climate-resilient varieties, drones for farming, remote sensing for climate data.</td>
-            <td>Explore various AI applications in climate-smart farming to enhance agricultural practices.</td>
-          </tr>
-          <tr>
-            <td>6.</td>
-            <td>It is imperative to continue developing and adopting these technologies using socio-technical methodology that could produce responsible AI-enhanced climate smart solutions that are accessible and beneficial to all farmers especially smallholders and marginalized women farmers in Africa.</td>
-            <td>Develop responsible AI-enhanced climate smart solutions accessible to all farmers, especially women farmers.</td>
-          </tr>
-          <tr>
-            <td>7.</td>
-            <td>Empowering African women farmers through AI-powered educational initiatives/programs would provide guidance with knowledge on sustainable farming practices.</td>
-            <td>Implement AI-powered educational programs to empower African women farmers with sustainable farming knowledge.</td>
-          </tr>
-          <tr>
-            <td>8.</td>
-            <td>AI-enabled resource accessibility can facilitate efficient resource allocation, by ensuring women farmers have access to essential resources and mitigate the impacts of climate change on their agricultural endeavors.</td>
-            <td>Ensure AI-enabled resource accessibility for women farmers to mitigate climate change impacts.</td>
-          </tr>
-          <tr>
-            <td>9.</td>
-            <td>Knowledge and capacity building must be demand and need-driven and done at frequent intervals, structured approach for sustained access to information and needed resources among women.</td>
-            <td>Implement demand-driven knowledge and capacity building programs for women farmers.</td>
-          </tr>
-          <tr>
-            <td>10.</td>
-            <td>Women participation in climate interventions must go beyond consultation to enable their objective involvement as well as operationalization and implementation of existing policies.</td>
-            <td>Enable objective involvement of women in climate interventions and policy implementation.</td>
-          </tr>
-          <tr>
-            <td>11.</td>
-            <td>Listening to women, increasing initiatives that support women growth, reduce women workloads, breakdown the barriers holding rural women back such as access, equity, and disability are ways of changing the paradigm shift of climate change.</td>
-            <td>Implement initiatives to support women growth and reduce barriers holding them back.</td>
-          </tr>
-          <tr>
-            <td>12.</td>
-            <td>Efforts to collectively boost women farmers' resilience to climate change and decision-making capacities should be advocated.</td>
-            <td>Advocate for efforts to boost women farmers' resilience and decision-making capacities.</td>
-          </tr>
-          <tr>
-            <td>13.</td>
-            <td>Policy design that will boost capacity to listen to women should be implemented, as well as improvement in agricultural extension services and training programs to better serve women farmers.</td>
-            <td>Implement policies to enhance listening capacity and improve agricultural services for women farmers.</td>
-          </tr>
-          <tr>
-            <td>14.</td>
-            <td>There is a high preference for web-based app compared to the SMS option based on usage, convenience, and cost of AI-driven weather forecast application.</td>
-            <td>Develop and promote web-based apps for AI-driven weather forecast due to their preference and advantages.</td>
-          </tr>
-          <tr>
-            <td>15.</td>
-            <td>Agriculture, specifically in weed management, has shown the potential to revolutionize traditional farming practices, and as we envision the future of agriculture in Nigeria, this blend of technology, sustainability, and inclusivity sets the stage for a promising future in Nigerian Agriculture.</td>
-            <td>Utilize technology and sustainable practices, including AI, to revolutionize agriculture for a promising future in Nigeria.</td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-  </div>
-</div>
+          <div class="row">
+            <div class="col-md-12">
+              <h4>1ÈRE CONFÉRENCE INTERNATIONALE SUR L'INTELLIGENCE ARTIFICIELLE POUR LES FEMMES DANS L'AGRICULTURE
+              </h4>
+              <p><strong>TENU DU 23 AU 26 OCTOBRE 2023 À L'UNIVERSITÉ D'ÉTAT DE KWARA (KWASU), MALETE, ÉTAT DE KWARA,
+                  NIGERIA</strong></p>
+              <h4>COMMUNIQUÉ</h4>
+              <p><strong>Préambule:</strong> L'intelligence artificielle pour une agriculture et un milieu rural
+                durables
+                Développement (AI4SARD) financé par le Genre et l'Intelligence Artificielle Responsable
+                Réseau
+                (GRAIN) a organisé la 1ère conférence internationale hybride sur l'Intelligence Artificielle pour les
+                Femmes en
+                Agriculture (AI4WIA) à l'Université d'État de Kwara, Malete, État de Kwara, du 23 au 26 octobre,
+                2023. Le thème de la conférence était « Une agriculture intelligente face au climat améliorée par
+                l’IA : vers l’autonomisation des pays africains.
+                Les agricultrices ». Le but de la conférence était d'élaborer des recommandations co-créées à partir
+                de l'espace
+                des universitaires, des organisations non gouvernementales et des chercheurs du monde entier sur le
+                thème. Avec plus de
+                un
+                cent participants, la conférence comprenait des présentations d'articles principaux, 5 articles
+                principaux et 7 techniques
+                papiers.</p>
 
 
-
+              <h3 class="title">Les éléments suivants sont des soumissions et des recommandations co-créées émanant du
+                délibérations de la conférence de 3 jours :</h3>
+              <ol>
+                <li>Les agricultrices jouent des rôles importants et multiformes dans l'agriculture, y compris dans les
+                  cultures et l'élevage.
+                  production, développement communautaire, gestion de l’eau, génération de revenus, reproduction,
+                  nutrition et
+                  bien-être du ménage. Ces éléments doivent être davantage reconnus pour les interventions nécessaires ;
+                </li>
+                <li>Les agricultrices ont une forte tendance à s'adapter et à adopter une production résiliente au
+                  climat et,
+                  par conséquent, ils devraient être ciblés en tant qu'agents de l'action climatique et de l'application
+                  de l'IA ;</li>
+                <li>Plusieurs défis auxquels les agricultrices sont confrontées lorsqu'elles s'engagent dans des
+                  activités agricoles en Afrique,
+                  tels qu'un accès limité à la terre et aux ressources, des services de formation et de vulgarisation
+                  inadéquats,
+                  violence basée sur le genre, vulnérabilité au changement climatique, analphabétisme et manque
+                  d'information, inadéquat
+                  la représentation doit être prise en compte dans l'orientation des mesures d'allègement politique ;
+                </li>
+                <li>L'importance de la conception inclusive, de la langue et de l'alphabétisation locales, de la
+                  formation et du renforcement des capacités,
+                  l’engagement communautaire, l’inclusion financière, etc. en tant que stratégies d’intégration
+                  sensibles au genre
+                  On ne saurait trop insister sur l’importance de l’agriculture intelligente face au climat renforcée
+                  par l’IA ;</li>
+                <li>L'agriculture intelligente face au climat basée sur l'IA en Afrique pourrait inclure des prévisions
+                  météorologiques améliorées par l'IA, des
+                  surveillance et détection de maladies, agriculture de précision, services de conseil numérique,
+                  surveillance
+                  systèmes, etc. irrigation intelligente, gestion du bétail, variétés résilientes au climat, drones pour
+                  agriculture, télédétection pour les données climatiques ;</li>
+                <li>Il est impératif de continuer à développer et à adopter ces technologies en s'appuyant sur des
+                  connaissances sociotechniques.
+                  méthodologie qui pourrait produire des solutions intelligentes face au climat, améliorées par l’IA,
+                  accessibles et
+                  bénéfique pour tous les agriculteurs, en particulier pour les petits exploitants et les agricultrices
+                  marginalisées. en Afrique ;</li>
+                <li>Autonomiser les agriculteurs africains grâce à des initiatives/programmes éducatifs basés sur l'IA
+                  permettrait
+                  des conseils et des connaissances sur les pratiques agricoles durables ;</li>
+                <li>L'accessibilité aux ressources grâce à l'IA peut faciliter une allocation efficace des ressources,
+                  garantissant
+                  que les agriculteurs aient accès aux ressources essentielles et atténuer les impacts du changement
+                  climatique sur
+                  leurs activités agricoles ;</li>
+                <li>Le renforcement des connaissances et des capacités doit être axé sur la demande et les besoins et
+                  réalisé à des intervalles fréquents.
+                  intervalles, en utilisant une approche structurée pour un accès durable aux informations et aux
+                  ressources nécessaires
+                  pour les femmes ;</li>
+                <li>La participation des femmes aux interventions climatiques doit aller au-delà de la consultation pour
+                  permettre leur
+                  l’implication objective ainsi que l’opérationnalisation et la mise en œuvre des politiques existantes
+                  ;
+                </li>
+                <li>Écouter les femmes, multiplier les initiatives qui soutiennent l'épanouissement des femmes, réduire
+                  la charge de travail des femmes,
+                  éliminer les obstacles qui freinent les femmes rurales, tels que l'accès, l'équité et le handicap,
+                  sont des moyens de
+                  changer le changement de paradigme du changement climatique ;</li>
+                <li>Efforts visant à renforcer collectivement la résilience des agricultrices face au changement
+                  climatique et à leurs
+                  les capacités de prise de décision doivent être préconisées ;</li>
+                <li>Une conception politique qui renforcera les capacités d'écoute des femmes devrait être mise en
+                  œuvre, ainsi que
+                  des services de vulgarisation agricole et des programmes de formation pour mieux servir les
+                  agriculteurs ;</li>
+                <li>Il existe une forte préférence pour les applications Web par rapport à l'option SMS en fonction de
+                  l'utilisation,
+                  la commodité et le coût des applications de prévisions météorologiques basées sur l'IA ;</li>
+                <li>L'agriculture, en particulier dans la gestion des mauvaises herbes, a montré son potentiel pour
+                  révolutionner les méthodes traditionnelles.
+                  pratiques agricoles, et alors que nous envisageons l'avenir de l'agriculture au Nigeria, ce mélange de
+                  technologie,
+                  durabilité et inclusivité. ouvre la voie à un avenir brillant pour l'agriculture nigériane.</li>
+              </ol>
+            </div>
+            <div class="col-lg-3"></div>
+          </div>
+        </div>
       </div>
-      <div class="col-lg-3"></div>
-    </div>
-  </div>
-  </div>
-  <!-- rts contact form are end -->
+      <!-- rts contact form are end -->
 
 
 
-  <?php
-  include 'layout/footer.php';
-  ?>
+      <?php
+      include 'layout/footer.php';
+      ?>
 
 
 
-  <div id="anywhere-home" class="">
-  </div>
+      <div id="anywhere-home" class="">
+      </div>
 
 
-  <!-- header style two -->
-  <?php
-  include 'layout/mobile-menu.php';
-  ?>
-  <!-- header style two End -->
+      <!-- header style two -->
+      <?php
+      include 'layout/mobile-menu.php';
+      ?>
+      <!-- header style two End -->
 
 
-  <!-- rts backto top start -->
-  <div class="progress-wrap">
-    <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
-      <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98"
-        style="transition: stroke-dashoffset 10ms linear 0s; stroke-dasharray: 307.919, 307.919; stroke-dashoffset: 307.919;">
-      </path>
-    </svg>
-  </div>
-  <!-- rts backto top end -->
+      <!-- rts backto top start -->
+      <div class="progress-wrap">
+        <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
+          <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98"
+            style="transition: stroke-dashoffset 10ms linear 0s; stroke-dasharray: 307.919, 307.919; stroke-dashoffset: 307.919;">
+          </path>
+        </svg>
+      </div>
+      <!-- rts backto top end -->
 
 
-  <script src="assets/js/vendor/jquery.min.js" defer></script>
-  <script src="assets/js/vendor/metismenu.js" defer></script>
-  <script src="assets/js/vendor/imagesloaded.pkgd.min.js" defer></script>
-  <script src="assets/js/vendor/isotope.pkgd.min.js" defer></script>
-  <script src="assets/js/vendor/magnific-popup.js" defer></script>
-  <script src="assets/js/plugins/bootstrap.min.js" defer></script>
-  <script src="assets/js/plugins/swiper.js" defer></script>
-  <script src="assets/js/plugins/contact.form.js" defer></script>
-  <script src="assets/js/main.js" defer></script>
+      <script src="assets/js/vendor/jquery.min.js" defer></script>
+      <script src="assets/js/vendor/metismenu.js" defer></script>
+      <script src="assets/js/vendor/imagesloaded.pkgd.min.js" defer></script>
+      <script src="assets/js/vendor/isotope.pkgd.min.js" defer></script>
+      <script src="assets/js/vendor/magnific-popup.js" defer></script>
+      <script src="assets/js/plugins/bootstrap.min.js" defer></script>
+      <script src="assets/js/plugins/swiper.js" defer></script>
+      <script src="assets/js/plugins/contact.form.js" defer></script>
+      <script src="assets/js/main.js" defer></script>
 </body>
 
 </html>
