@@ -86,8 +86,8 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="about-inner-main-four">
-                        <h2 class="title">
-                            About <br>
+                        <h2 class="title" >
+                            <br>About <br>
                             Artificial Intelligence for Women in Agriculture
                         </h2>
                         <p class="disc">
