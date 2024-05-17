@@ -19,11 +19,19 @@
                 <li class="parent">
                     <a class="links-main" href="training.php">Training</a>
                 </li>
-                <li class="parent">
-                    <a class="links-main" href="bootcamp.php">Bootcamp</a>
+                <li class="has-droupdown parent">
+                    <a href="" class="main">Bootcamp</a>
+                    <ul class="submenu mm-collapse">
+                        <li><a href="bootcamp-report.php">Bootcamp Report</a></li>
+                        <li><a href="bootcamp.php">Bootcamp Material</a></li>
+                    </ul>
                 </li>
-                <li class="parent">
-                    <a class="links-main" href="in.php">international conference </a>
+                <li class="has-droupdown parent">
+                    <a href="#" class="main">Reports</a>
+                    <ul class="submenu mm-collapse">
+                        <li><a href="international-conference_report.php">International conference Report</a></li>
+                        <li><a href="non-cash-revolving-loan_report.php">Non-cash revolving loan Report</a></li>
+                    </ul>
                 </li>
                 <li class="parent">
                     <a href="gallery.php" class="main">Gallery</a>

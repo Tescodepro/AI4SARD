@@ -49,9 +49,6 @@
                                         <ul class="submenu">
                                             <li><a href="international-conference_report.php">International conference Report</a></li>
                                             <li><a href="non-cash-revolving-loan_report.php">Non-cash revolving loan Report</a></li>
-                                   
-                                            <!-- <li><a href="checkout.html">Checkout</a></li>
-                                            <li><a href="log-in.html">My Account</a></li> -->
                                         </ul>
                                     </li>
                                 </ul>
