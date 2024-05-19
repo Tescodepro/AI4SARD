@@ -33,7 +33,7 @@
                                             <li><a href="">Organogram</a></li>
                                         </ul>
                                     </li> -->
-                                    <li><a class="links-main" href="contact.php">Contact</a></li>
+                                    
                                     <li><a class="links-main" href="training.php">Training</a></li>
                                     <li class="has-dropdown">
                                         <a class="links-main">Bootcamp</a>
@@ -51,6 +51,8 @@
                                             <li><a href="non-cash-revolving-loan_report.php">Non-cash revolving loan Report</a></li>
                                         </ul>
                                     </li>
+                                    <li><a class="links-main" href="gallery.php">Gallery</a></li>
+                                    <li><a class="links-main" href="contact.php">Contact</a></li>
                                 </ul>
                             </nav>
                         </div>
@@ -63,7 +65,7 @@
                         </div>
                         <!-- nav end -->
                         <div class="button-area">
-                            <a href="gallery.php" class="rts-btn btn-primary">Gallery</a>
+                            <a href="blog.php" class="rts-btn btn-primary">Blog</a>
                         </div>
                     </div>
                 </div>
