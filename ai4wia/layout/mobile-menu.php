@@ -18,6 +18,7 @@
                 </li> -->
                 <li class="parent">
                     <a class="links-main" href="training.php">Training</a>
+                    <a class="links-main" href="gallery.php">Gallery</a>
                 </li>
                 <li class="has-droupdown parent">
                     <a href="" class="main">Bootcamp</a>
@@ -34,7 +35,7 @@
                     </ul>
                 </li>
                 <li class="parent">
-                    <a href="gallery.php" class="main">Gallery</a>
+                    <a href="blog.php" class="main">Blog</a>
                 </li>
             </ul>
         </nav>
