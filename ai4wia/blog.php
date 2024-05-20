@@ -30,34 +30,48 @@ include '../config/database.php';
   <!-- rts header area five end -->
 
   <!-- rts contact form are start -->
-  <div class="rts-contact-form-area rts-section-gap pt--190">
+  <div class="rts-contact-form-area rts-section-gap pt--190" style="margin-top:50px;">
     <div class="container">
-      <h2 class="title">Blogs</h2>
       <div class="row g-5">
         <?php
         $count = 1;
-        $blogs = mysqli_query($connect, "SELECT * FROM blogs");
+        $id = 1;
+        $blogs = mysqli_query($connect, "SELECT * FROM blogs WHERE id ='$id'");
         while ($team_row = mysqli_fetch_array($blogs)) {
           ?>
-          <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-            <!-- single blog area start -->
-            <div class="single-blog-area-wrapper">
-              <a href="blog_details.php?id=<?php echo $team_row['id'] ?>" class="thumbnail">
-                <!-- <img src="assets/images/blog/01.jpg" alt="Blog_images"> -->
-              </a>
-              <div class="inner-content">
-                <div class="body">
-                  <a href="<?php echo $team_row['id'] ?>">
-                    <h5 class="title"><?php echo $team_row['title'] ?></h5>
-                  </a>
-                  <div class="author-area">
-                    <a href="blog_details.php?id=<?php echo $team_row['id'] ?>">Read More <i class="fa-solid fa-arrow-right"></i></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <!-- single blog area end -->
-          </div>
+          <div class="row top-blog-details-start align-items-center">
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb--30">
+                            <div class="title-area">
+                                <h2 class="title">
+                                    <?php echo $team_row['title'] ?>
+                                </h2>
+
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+                            <div class="authore-bd-area">
+                                <div class="sub-area">
+                                    <p>Blog</p>
+                                    <span class="deg">Blog Content</span>
+                                </div>
+                                <div class="sub-area">
+                                    <p>Purplish</p>
+                                    <span class="deg"><?php echo (new DateTime($team_row['created_at']))->format('F j, Y, g:i A'); ?></span>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- <div class="col-lg-12 mt--30">
+                            <div class="main-image-big">
+                                <img src="assets/images/blog/10.jpg" alt="blog-imaeg">
+                            </div>
+                        </div> -->
+                    </div>
+                    <div class="para-area-wrapper">
+                        <p class="disc">
+                            <?php echo $team_row['body'] ?>
+                        </p>
+                    </div>
+
         <?php } ?>
         <br><br>
         <div class="col-lg-3"></div>
